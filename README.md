@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jagotic
 - 👀 I’m interested in Web Applications
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on something secret
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me talks290@gmail.com
 
 <!---
