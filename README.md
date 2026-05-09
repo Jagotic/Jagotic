@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Applications
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me talks290@gmail.com
+- 📫 How to reach me, find me
 
 <!---
 Jagotic/Jagotic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
